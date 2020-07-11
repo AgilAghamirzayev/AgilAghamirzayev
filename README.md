@@ -8,7 +8,7 @@
 
 ------------------>           SKILLS           <------------------
 
--Java Core, Java EE, Java 8,Java JSP and Servlet,
+- Java Core, Java EE, Java 8,Java JSP and Servlet,
 Spring 5 Core, Spring MVC,Spring Security, Spring REST,
 Hibernate, Spring Boot,
 Rest Api, Spring Boot Microservices, Spring cloud,
