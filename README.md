@@ -8,11 +8,11 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ---------------------------------------------------------------------->           My Projects           <----------------------------------------------------------------------
-- Currency Exchange
-  - ######  [GitHub]("https://github.com/Aqilzeka/currency-converter") 
-  - ###### [Deployed]("https://calm-savannah-70817.herokuapp.com/")
-  -  Java, Sprng Boot, MVC, JPA, Rest API, Thymeleaf, Lqubase, Heroku, Git
 
+- Currency Exchange
+  - [GitHub](https://github.com/Aqilzeka/currency-converter)
+  - [Deployed](https://calm-savannah-70817.herokuapp.com)
+  -  Java, Sprng Boot, MVC, JPA, Rest API, Thymeleaf, Lqubase, Heroku, Git
   
 - Currency Exchange
   - [GitHub]("https://github.com/Aqilzeka/currency-converter") 
