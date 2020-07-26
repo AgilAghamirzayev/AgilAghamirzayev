@@ -7,6 +7,30 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+---------------------------------------------------------------------->           My Projects           <----------------------------------------------------------------------
+
+- Currency Exchange
+  - [GitHub]("https://github.com/Aqilzeka/currency-converter") 
+  - [Deployed]("https://calm-savannah-70817.herokuapp.com/")
+  -  Java, Sprng Boot, MVC, JPA, Rest API, Thymeleaf, Lqubase, Heroku, Git
+  
+- Currency Exchange
+  - [GitHub]("https://github.com/Aqilzeka/currency-converter") 
+  - [Deployed]("https://calm-savannah-70817.herokuapp.com/")
+  -  Java, Sprng Boot, MVC, JPA, Rest API, Thymeleaf, Lqubase, Heroku, Git
+  
+- Currency Exchange
+  - [GitHub]("https://github.com/Aqilzeka/currency-converter") 
+  - [Deployed]("https://calm-savannah-70817.herokuapp.com/")
+  -  Java, Sprng Boot, MVC, JPA, Rest API, Thymeleaf, Lqubase, Heroku, Git
+  
+- Currency Exchange
+  - [GitHub]("https://github.com/Aqilzeka/currency-converter") 
+  - [Deployed]("https://calm-savannah-70817.herokuapp.com/")
+  -  Java, Sprng Boot, MVC, JPA, Rest API, Thymeleaf, Lqubase, Heroku, Git
+  
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ---------------------------------------------------------------------->           SKILLS           <----------------------------------------------------------------------
 
 - Java Core, Java EE, Java 8,Java JSP and Servlet, Spring 5 Core, Spring MVC,Spring Security, Spring REST,
