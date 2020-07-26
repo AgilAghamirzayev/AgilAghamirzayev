@@ -9,25 +9,28 @@
 
 ---------------------------------------------------------------------->           My Projects           <----------------------------------------------------------------------
 
+
 - Currency Exchange
   - [GitHub](https://github.com/Aqilzeka/currency-converter)
   - [Deployed](https://calm-savannah-70817.herokuapp.com)
   -  Java, Sprng Boot, MVC, JPA, Rest API, Thymeleaf, Lqubase, Heroku, Git
-  
-- Currency Exchange
-  - [GitHub]("https://github.com/Aqilzeka/currency-converter") 
-  - [Deployed]("https://calm-savannah-70817.herokuapp.com/")
-  -  Java, Sprng Boot, MVC, JPA, Rest API, Thymeleaf, Lqubase, Heroku, Git
-  
-- Currency Exchange
-  - [GitHub]("https://github.com/Aqilzeka/currency-converter") 
-  - [Deployed]("https://calm-savannah-70817.herokuapp.com/")
-  -  Java, Sprng Boot, MVC, JPA, Rest API, Thymeleaf, Lqubase, Heroku, Git
-  
-- Currency Exchange
-  - [GitHub]("https://github.com/Aqilzeka/currency-converter") 
-  - [Deployed]("https://calm-savannah-70817.herokuapp.com/")
-  -  Java, Sprng Boot, MVC, JPA, Rest API, Thymeleaf, Lqubase, Heroku, Git
+#  
+- Tinder
+  - [GitHub](https://github.com/Aqilzeka/step-project-tinder) 
+  - [Deployed](https://dry-inlet-94203.herokuapp.com/login)
+  -  Java Core, Jetty Servlet, Freemaker, Flyway, Heroku, Gt
+#
+- Book (save, delete, update, read)
+  - [GitHub](https://github.com/Aqilzeka/book-app) 
+  -  Java, Sprng Boot, MVC, JPA, Rest API, Git, TypeScript, Angular
+#
+- Snake Engine
+  - [GitHub](https://github.com/Aqilzeka/snake-engine) 
+  -  Java Core, BFS algorthm, Lee algorthm
+#  
+- Plane Tickets Booking
+  - [GitHub](https://github.com/Aqilzeka/StepProjectBooking) 
+  -  Java Core, Java 8
   
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
