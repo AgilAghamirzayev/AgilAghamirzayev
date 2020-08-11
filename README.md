@@ -1,7 +1,7 @@
 ------------------------------------------------------------------->          ABOUT ME          <-------------------------------------------------------------------
 
 - 🎓 I’m currently studying in Western Caspian University (WCU) (3rd course).
-- 👨‍💻 I graduated from IBA Tech Academy 
+- 👨‍💻 I graduated IBA Tech Academy 
 - 🌱 I’m currently learning Spring Boot Microservices
 - 💬 Ask me about what you want about Java
 
@@ -13,20 +13,20 @@
 - Currency Exchange
   - [GitHub](https://github.com/Aqilzeka/currency-converter)
   - [Deployed](https://calm-savannah-70817.herokuapp.com)
-  -  Java, Sprng Boot, MVC, JPA, Rest API, Thymeleaf, Lqubase, Heroku, Git
+  -  Java, Spring Boot, MVC, JPA, Rest API, Thymeleaf, Liquibase, Heroku, Git
 #  
 - Tinder
   - [GitHub](https://github.com/Aqilzeka/step-project-tinder) 
   - [Deployed](https://dry-inlet-94203.herokuapp.com/login)
-  -  Java Core, Jetty Servlet, Freemaker, Flyway, Heroku, Gt
+  -  Java Core, Jetty Servlet, Freemaker, Flyway, Heroku, Git
 #
 - Book (save, delete, update, read)
   - [GitHub](https://github.com/Aqilzeka/book-app) 
-  -  Java, Sprng Boot, MVC, JPA, Rest API, Git, TypeScript, Angular
+  -  Java, Spring Boot, MVC, JPA, Rest API, Git, TypeScript, Angular
 #
 - Snake Engine
   - [GitHub](https://github.com/Aqilzeka/snake-engine) 
-  -  Java Core, BFS algorthm, Lee algorthm
+  -  Java Core, BFS algorithm, Lee algorithm
 #  
 - Plane Tickets Booking
   - [GitHub](https://github.com/Aqilzeka/StepProjectBooking) 
@@ -75,6 +75,7 @@ framework of the "Winter School of Astronomy for Students" project of the youth 
 - Linkedn https://www.linkedin.com/in/aqil-aghamirzayev-ab2379172/
 - Facebook https://www.facebook.com/profile.php?id=100019044914101
 - HackerRank https://www.hackerrank.com/aqilzeka99?hr_r=1
+- Stackoverflow https://stackoverflow.com/users/11538257/aqil-zeka
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
