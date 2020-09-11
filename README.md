@@ -2,7 +2,7 @@
 
 - 🎓 I’m currently studying in Western Caspian University (WCU) (3rd course).
 - 👨‍💻 I graduated IBA Tech Academy 
-- 🌱 I’m currently learning Spring Boot Microservices
+- 🌱 I’m currently working in DevHq
 - 💬 Ask me about what you want about Java
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
