@@ -76,6 +76,7 @@ framework of the "Winter School of Astronomy for Students" project of the youth 
 - Facebook https://www.facebook.com/profile.php?id=100019044914101
 - HackerRank https://www.hackerrank.com/aqilzeka99?hr_r=1
 - Stackoverflow https://stackoverflow.com/users/11538257/aqil-zeka
+- Medium https://medium.com/@aqilzeka99
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
