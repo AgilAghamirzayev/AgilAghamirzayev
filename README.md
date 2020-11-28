@@ -32,13 +32,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/aqilzeka" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="aqilzeka" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aqil aghamirzayev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aqil aghamirzayev" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/aqil zeka" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="aqil zeka" height="30" width="40" /></a>
-<a href="https://fb.com/aqil aghamirzayev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="aqil aghamirzayev" height="30" width="40" /></a>
-<a href="https://medium.com/@aqilzeka" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@aqilzeka" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aqil-aghamirzayev-ab2379172/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aqil aghamirzayev" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/11538257/aqil-zeka" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="aqil zeka" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100019044914101" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="aqil aghamirzayev" height="30" width="40" /></a>
+<a href="https://medium.com/@aqilzeka99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@aqilzeka" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aqilzeka99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="aqilzeka99" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aqil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="aqil" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/aqilzeka" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="aqilzeka" height="30" width="40" /></a>
+<a href="https://leetcode.com/Aqil_Zeka/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="aqil" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/aqilzeka/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="aqilzeka" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
