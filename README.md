@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/Aqilzeka" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **DevHq**
+- 🔭 I’m currently working on **CRBN Teach**
 
-- 🌱 I’m currently learning **Microservices Architecture**
+- 🌱 I’m currently learning **The Theory Of Everything**
 
 - 🎓 I’m currently studying [Western Caspian University (WCU) (3rd course).](https://wcu.edu.az/en)
 
@@ -17,7 +17,7 @@
 
 - 📝 I regulary write articles on [https://medium.com/@aqilzeka99](https://medium.com/@aqilzeka99)
 
-- 💬 Ask me about **Java, Algorithm, Time Management**
+- 💬 Ask me about **What You Want**
 
 - 📫 How to reach me **aqilzeka99@gmail.com**
 
