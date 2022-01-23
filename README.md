@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **The Theory Of Everything**
 
-- 🎓 I’m currently studying [Western Caspian University (WCU) (3rd course).](https://wcu.edu.az/en)
+- 🎓 I’m currently studying [Western Caspian University (WCU) (4rd course).](https://wcu.edu.az/en)
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/aqil-aghamirzayev-ab2379172/](https://www.linkedin.com/in/aqil-aghamirzayev-ab2379172/)
 
