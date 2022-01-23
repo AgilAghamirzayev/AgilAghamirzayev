@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **What You Want**
 
-- 📫 How to reach me **aqilzeka99@gmail.com**
+- 📫 How to reach me **aqilaghamirzayev@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/aqil-aghamirzayev-ab2379172/](https://www.linkedin.com/in/aqil-aghamirzayev-ab2379172/)
 
