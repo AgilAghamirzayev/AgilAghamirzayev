@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/Aqilzeka" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **...**
+- 🔭 I’m currently working on **ABB**
 
-- 🌱 I’m currently learning **The Theory Of Everything**
+- 🌱 I’m currently learning **ADVANCE PROGRAMMING CONCEPTS**
 
 - 🎓 I’m currently studying [Western Caspian University (WCU) (4rd course).](https://wcu.edu.az/en)
 
@@ -17,13 +17,13 @@
 
 - 📝 I regulary write articles on [https://medium.com/@aqilzeka99](https://medium.com/@aqilzeka99)
 
-- 💬 Ask me about **What You Want**
+- 💬 Ask me about **Everything in Java**
 
 - 📫 How to reach me **aqilaghamirzayev@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/aqil-aghamirzayev-ab2379172/](https://www.linkedin.com/in/aqil-aghamirzayev-ab2379172/)
 
-- 📞 WhatsApp **+994 70 8144314**
+- 📞 WhatsApp **+994708144314**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
