@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **ADVANCE PROGRAMMING CONCEPTS**
 
-- 🎓 I’m currently studying [Western Caspian University (WCU) (4rd course).](https://wcu.edu.az/en)
+- 🎓 I’m currently studying [Azerbaijan Technology University](https://www.aztu.edu.az/az)
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/aqil-aghamirzayev-ab2379172/](https://www.linkedin.com/in/aqil-aghamirzayev-ab2379172/)
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **aqilaghamirzayev@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/aqil-aghamirzayev-ab2379172/](https://www.linkedin.com/in/aqil-aghamirzayev-ab2379172/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/agilaghamirzayev/](https://www.linkedin.com/in/agilaghamirzayev/)
 
 - 📞 WhatsApp **+994708144314**
 
