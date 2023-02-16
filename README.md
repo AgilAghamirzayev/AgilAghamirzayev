@@ -13,15 +13,15 @@
 
 - 🎓 I’m currently studying [Azerbaijan Technology University](https://www.aztu.edu.az/az)
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/aqil-aghamirzayev-ab2379172/](https://www.linkedin.com/in/aqil-aghamirzayev-ab2379172/)
+- 👨‍💻 All of my projects are available at [Here](https://www.linkedin.com/in/aqil-aghamirzayev-ab2379172/)
 
-- 📝 I regulary write articles on [https://medium.com/@aqilzeka99](https://medium.com/@aqilzeka99)
+- 📝 I regulary write articles on [Medium](https://medium.com/@aqilzeka99)
 
 - 💬 Ask me about **Everything in Java**
 
 - 📫 How to reach me **aqilaghamirzayev@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/agilaghamirzayev/](https://www.linkedin.com/in/agilaghamirzayev/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/agilaghamirzayev/)
 
 - 📞 WhatsApp **+994708144314**
 
