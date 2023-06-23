@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://github.com/Aqilzeka" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently not working
+- 🔭 I’m currently working [Golden Pay](https://goldenpay.az)
 
 - 🌱 I’m currently learning **ADVANCE PROGRAMMING CONCEPTS**
 
-- 🎓 I’m currently studying [Azerbaijan Technology University](https://www.aztu.edu.az/az)
+- 🎓 I’m currently studying Master of System Programming [Azerbaijan Technology University](https://www.aztu.edu.az/az)
 
 - 👨‍💻 All of my projects are available at [Here](https://www.linkedin.com/in/aqil-aghamirzayev-ab2379172/)
 
