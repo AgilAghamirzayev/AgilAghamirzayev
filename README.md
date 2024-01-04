@@ -1,7 +1,7 @@
 <h1 align="center">Welcome, This is Aqil</h1>
 <h3 align="center">A passionate Java developer from Azerbaijan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aqilzeka&label=Profile%20views&color=0e75b6&style=flat" alt="aqilzeka" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AgilAghamirzayev&label=Profile%20views&color=0e75b6&style=flat" alt="AgilAghamirzayev" /> </p>
 
 <p align="left"> <a href="https://github.com/Aqilzeka"><img src="https://github-profile-trophy.vercel.app/?username=aqilzeka" alt="aqilzeka" /></a> </p>
 
