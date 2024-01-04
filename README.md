@@ -1,11 +1,11 @@
 <h1 align="center">Welcome, This is Aqil</h1>
 <h3 align="center">A passionate Java developer from Azerbaijan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AgilAghamirzayev&label=Profile%20views&color=0e75b6&style=flat" alt="AgilAghamirzayev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aqilzeka&label=Profile%20views&color=0e75b6&style=flat" alt="aqilzeka" /> </p>
 
-<p align="left"> <a href="https://github.com/Aqilzeka"><img src="https://github-profile-trophy.vercel.app/?username=aqilzeka" alt="aqilzeka" /></a> </p>
+<p align="left"> <a href="https://github.com/AgilAghamirzayev"><img src="https://github-profile-trophy.vercel.app/?username=AgilAghamirzayev" alt="AgilAghamirzayev" /></a> </p>
 
-<p align="left"> <a href="https://github.com/Aqilzeka" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://github.com/AgilAghamirzayev" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working [Golden Pay](https://goldenpay.az)
 
