@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aqilzeka&label=Profile%20views&color=0e75b6&style=flat" alt="aqilzeka" /> </p>
 
-<p align="left"> <a href="https://github.com/AgilAghamirzayev"><img src="https://github-profile-trophy.vercel.app/?username=AgilAghamirzayev" alt="AgilAghamirzayev" /></a> </p>
-
-<p align="left"> <a href="https://github.com/AgilAghamirzayev" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working [Golden Pay](https://goldenpay.az)
 
 - 🌱 I’m currently learning **ADVANCE PROGRAMMING CONCEPTS**
@@ -32,7 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/aqilzeka" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="aqilzeka" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/aqil-aghamirzayev-ab2379172/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aqil aghamirzayev" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/agilaghamirzayev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aqil aghamirzayev" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11538257/aqil-zeka" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="aqil zeka" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100019044914101" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="aqil aghamirzayev" height="30" width="40" /></a>
 <a href="https://medium.com/@aqilzeka99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@aqilzeka" height="30" width="40" /></a>
@@ -56,9 +52,9 @@
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://www.rabbitmq.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a>
 <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aqilzeka&show_icons=true&locale=en&layout=compact" alt="aqilzeka" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AgilAghamirzayev&show_icons=true&locale=en&layout=compact" alt="AgilAghamirzayev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aqilzeka&show_icons=true&locale=en" alt="aqilzeka" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AgilAghamirzayev&show_icons=true&locale=en" alt="AgilAghamirzayev" /></p>
 
 
 
