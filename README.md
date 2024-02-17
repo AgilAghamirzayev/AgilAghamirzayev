@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aqilzeka&label=Profile%20views&color=0e75b6&style=flat" alt="aqilzeka" /> </p>
 
-- 🔭 I’m currently working [Golden Pay](https://goldenpay.az)
+- 🔭 I’m currently working [Kapital Bank](https://www.kapitalbank.az/)
 
 - 🌱 I’m currently learning **ADVANCE PROGRAMMING CONCEPTS**
 
