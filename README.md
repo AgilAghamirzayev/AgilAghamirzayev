@@ -19,8 +19,6 @@
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/agilaghamirzayev/)
 
-- 📞 WhatsApp **+994708144314**
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
