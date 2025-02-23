@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ADVANCE PROGRAMMING CONCEPTS**
 
-- 🎓 I’m currently studying Master of System Programming [Azerbaijan Technology University](https://www.aztu.edu.az/az)
+- 🎓 I’m currently studying PhD in Management Information Systems [Bahçeşehir Üniversitesi](https://bau.edu.tr/)
 
 - 👨‍💻 All of my projects are available at [Here](https://www.linkedin.com/in/aqil-aghamirzayev-ab2379172/)
 
